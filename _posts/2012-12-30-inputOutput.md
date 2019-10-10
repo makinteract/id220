@@ -13,7 +13,7 @@ layout: nil
 
 ### Input and output examples
 
-<!-- <p><iframe src="https://create.arduino.cc/editor/uaiti/5d844781-b646-42df-b9e9-b192f237ed87/preview?embed" height="510px" width="100%"  frameborder="0"></iframe><p> -->
+<p><iframe src="https://create.arduino.cc/editor/andreabianchi/f6c9af64-b212-43e7-88ee-8adc7b5bdabc/preview?embed" height="510px" width="100%"  frameborder="0"></iframe><p>
 
 * The pinMode function is not needed in the **analog** case.
 * For input you should use either an internal (e.g., pinMode set to `INPUT_PULLUP`) or external pull-up resistor.
