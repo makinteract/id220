@@ -30,4 +30,4 @@ Connect the breadboard as in the image below
 
 <img src="images/w5_ex1.png" width="100%">
 
-Write a piece of code that read the value from the sensor (0-1023) and mapped it to the brightness of the LED (PWM 0-255). This functionality should be active only when the button is pressed.
+Write a piece sketch that reads the value from the sensor (0-1023) and mapped it to the brightness of the LED (PWM 0-255). This functionality should be active only when the pushbutton is pressed.
