@@ -26,5 +26,5 @@ digitalWirte (pin, HIGH);
 
 ### Exercise
 
-![schematics](images/w5_ex1.jpg){ width: 100%; }
+![schematics](images/w5_ex1.jpg | width=100%)
 
