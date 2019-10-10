@@ -26,6 +26,8 @@ digitalWirte (pin, HIGH);
 
 ## Exercise
 
-<img src="images/w5_ex1.jpg" width="100%">
+Connect the breadboard as in the image below
 
+<img src="images/w5_ex1.png" width="100%">
 
+Write a piece of code that read the value from the sensor (0-1023) and mapped it to the brightness of the LED (PWM 0-255). This functionality should be active only when the button is pressed.
