@@ -1,5 +1,5 @@
 ---
-title: 'Binary operations'
+title: 'Bluetooth'
 
 layout: nil
 ---
